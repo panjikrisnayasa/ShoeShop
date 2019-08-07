@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shoe Shop</string>
+    <string name="all_shoes_photo">Shoe\'s photo</string>
+    <string name="all_shoes_name">Nike Blazer Mid</string>
+    <string name="all_shoes_category">Lifestyle</string>
+    <string name="all_shoes_price">$260</string>
+    <string name="all_shoes_description">Shoe\'s Description</string>
+    <string name="detail_buy_now">Buy Now</string>
+</resources>
